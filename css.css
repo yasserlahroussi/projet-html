@@ -24,11 +24,13 @@ padding: 11px 52px;
     font-family: Inter, sans-serif;
 font-weight: 400;
 font-style: Regular;
-font-size: 9px;
+font-size: 15px;
 line-height: 120%;
 letter-spacing: 0%;
-align-items: center;
-
+}
+#accueil{
+    color: #034BFF;
+    text-decoration: underline;
 }
 .onglet a{
     text-decoration: none;
@@ -36,11 +38,9 @@ align-items: center;
 .onglet a:hover{
     background-color: rgb(159, 169, 172);
     text-decoration: none;
-    width: 50px;
-    height: 20px;
+    width: 80px;
+    height: 30px;
     border-radius: 5px;
-    
-    padding: 5px 5px 5px 5px;
     color:#0A1222;
 }
 .recherche a{
@@ -151,4 +151,75 @@ letter-spacing: 0%;
 }
 #evenment:hover{
      background-color: rgb(141, 141, 191);
+}
+.section2{
+    background-color: #08111D;
+    margin:0;
+
+}
+.icon{
+    display: inline-block;
+    margin-left: 50px;
+    padding-top: 35px;
+    padding-bottom: 50px;
+}
+.icon > span{
+    color: #FFFFFF;
+    padding: 10px;
+    border: 0;
+    border-radius: 50%;
+}
+.appre{
+    display: inline-block;
+    color: #FFFFFF;
+    padding-top: 30px;
+    margin-left: 15px;
+}
+#A{
+    background-color:#B8C9CF;
+}
+#S{
+    background-color: #D7C3B6;
+}
+#Y{
+    background-color:#B8C9CF ;
+}
+#M{
+    background-color:#D7C3B6 ;
+}
+
+#pre{
+    display: inline-block;
+}
+.pree{
+    display: inline-block;
+}
+#section2{
+    display: flex;
+    justify-content: space-between;
+    margin:0 50px;
+}
+#num{
+    font-family: Inter, sans-serif;
+font-weight: 800;
+font-style: Extra Bold;
+font-size: 26px;
+line-height: 120%;
+letter-spacing: 0%;
+}
+#mot{
+    font-family: Inter, sans-serif;
+font-weight: 400;
+font-style: Regular;
+font-size: 11px;
+line-height: 120%;
+letter-spacing: 0%;
+
+}
+.fase{
+    display: inline;
+    padding-top: 30px;
+}
+#sepa{
+ font-size: 30px;
 }
