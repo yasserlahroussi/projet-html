@@ -83,7 +83,7 @@ font-style: Black;
 font-size: 76px;
 line-height: 120%;
 letter-spacing: 0%;
-padding: 10px 20px 0px 20px;
+padding: 100px 20px 0px 50px;
 color:  #FFFFFF;
 margin: 0;
 }
@@ -95,7 +95,6 @@ font-size: 88px;
 line-height: 120%;
 letter-spacing: 0%;
 color: #034BFF;
-
 }
 .egal{
     font-family: Inter, sans-serif;
@@ -105,4 +104,51 @@ font-size: 66px;
 line-height: 120%;
 letter-spacing: 0%;
 color: #C7F64A;
+}
+.sec{
+  padding: 0px 20px 0px 50px; 
+}
+.etudiant{
+    padding: 0px 20px 0px 50px;
+    color: #FFFFFF;
+font-family: Inter, sans-serif;
+font-weight: 800;
+font-style: Extra Bold;
+font-size: 26px;
+line-height: 120%;
+letter-spacing: 0%;
+margin: 0;
+}
+.text{
+     padding: 0px 20px 0px 50px;
+     color: #FFFFFF;
+     font-family: Inter, sans-serif;
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+line-height: 120%;
+letter-spacing: 0%;
+}
+#decouvrir{
+    background-color: blue;
+ color: white;
+ border:none;
+ padding: 25px 40px;
+ border-radius: 10px;
+ margin-left:50px ;
+ display:inline-block;
+}
+#decouvrir:hover{
+    background-color: rgb(59, 59, 255);
+}
+#evenment{
+ background-color: black;
+ color:white ;
+ padding: 25px 40px;
+ border-radius: 10px;
+ margin-left: 15px;
+ display: inline-block;
+}
+#evenment:hover{
+     background-color: rgb(141, 141, 191);
 }
