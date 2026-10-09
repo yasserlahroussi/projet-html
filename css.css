@@ -223,3 +223,231 @@ letter-spacing: 0%;
 #sepa{
  font-size: 30px;
 }
+#section3{
+    margin-left:50px ;
+}
+.nn{
+ font-family: Inter, sans-serif;
+font-weight: 400;
+font-style: Regular;
+font-size: 10px;
+line-height: 120%;
+letter-spacing: 0%;
+color:#034BFF;
+}
+.mm{
+    font-family: Inter, sans-serif;
+font-weight: 800;
+font-style: Extra Bold;
+font-size: 33px;
+line-height: 120%;
+letter-spacing: 0%;
+}
+.bb{
+  font-family: Inter, sans-serif;
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+line-height: 120%;
+letter-spacing: 0%;
+}
+#secti3{
+    display: inline-block;
+}
+.images3{
+    margin-left: 200px;
+}
+#img1{
+    display: inline-block;
+}
+#tet{
+   font-family: Inter, sans-serif;
+font-weight: 700;
+font-style: Bold;
+font-size: 10px;
+line-height: 120%;
+letter-spacing: 0%;
+color: #FFFFFF;
+background-color: #08111D;
+border: 0;
+border-radius: 23px;
+}
+#explor{
+    background-color: blue;
+ color: white;
+ border:none;
+ padding: 25px 40px;
+ border-radius: 10px;
+ margin-left:5px ;
+}
+#explor:hover{
+    background-color: rgb(118, 118, 208);
+}
+#section4{
+    background-color: #0A1222;
+    padding-left: 30px;
+}
+#titre-section4{
+    color: #FFFFFF;
+    font-family: Inter, sans-serif;
+font-weight: 800;
+font-style: Extra Bold;
+font-size: 33px;
+line-height: 120%;
+letter-spacing: 0%;
+padding-top: 50px;
+
+}
+#titre5-section4{
+    color: #FFFFFF;
+    font-family: Inter, sans-serif;
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+line-height: 120%;
+letter-spacing: 0%;
+}
+#objet-num1{
+    padding-top: 10px;
+}
+#icon-1-svg{
+    background-color: #034BFF;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    border: 0;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+.NUM1{
+    color: #FFFFFF;
+    margin-left: 70px;
+    font-family: Inter, sans-serif;
+font-weight: 400;
+font-style: Regular;
+font-size: 10px;
+line-height: 120%;
+letter-spacing: 0%;
+
+}
+.day1{
+    color: #FFFFFF;
+    margin-left: 50px;
+    padding-top: 15px;
+    font-family: Inter, sans-serif;
+font-weight: 700;
+font-style: Bold;
+font-size: 12px;
+line-height: 120%;
+letter-spacing: 0%;
+}
+#note{
+    font-family: Inter, sans-serif;
+font-weight: 400;
+font-style: Regular;
+font-size: 10px;
+line-height: 120%;
+letter-spacing: 0%;
+
+}
+.point{
+    color: #FFFFFF;
+    margin-bottom: 160px;
+    align-items: center;
+    vertical-align: middle;
+    margin-left: 40px;
+    margin-right: 10px;
+    font-family: Inter, sans-serif;
+font-weight: 400;
+font-style: Regular;
+font-size: 11px;
+line-height: 120%;
+letter-spacing: 0%;
+display: inline-block;
+}
+#sec{
+    display: inline-block;
+}
+#icon-3-svg{
+     background-color: #04B886;
+
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    border: 0;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+#icon-4-svg{
+     background-color: #6744FF;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    border: 0;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+#icon-6-svg{
+     background-color: #C7F64A;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    border: 0;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+#sec5{
+    margin: 25px;
+   width: 305px;
+height: 230px;
+opacity: 1;
+top: 15px;
+left: 16px;
+border:0;
+border-radius: 7px;
+padding-left: 10px;
+padding-top: 20px;
+background-color: #034BFF;
+display: inline-block;
+}
+#h1{
+    color: #FFFFFF;
+    font-family: Inter, sans-serif;
+font-weight: 400;
+font-style: Regular;
+font-size: 10px;
+line-height: 120%;
+letter-spacing: 0%;
+}
+#h2{
+    font-family: Inter, sans-serif;
+font-weight: 800;
+font-style: Extra Bold;
+font-size: 24px;
+line-height: 120%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+#h3{
+    font-family: Inter, sans-serif;
+    color: #FFFFFF;
+font-weight: 400;
+font-style: Regular;
+font-size: 12px;
+line-height: 120%;
+letter-spacing: 0%;
+}
+#bouton{
+    border: none;
+    width: 191px;
+height: 32px;
+opacity: 1;
+top: 178px;
+left: 47px;
+border-radius: 5px;
+color: #034BFF;
+background-color: #FFFFFF;
+}
+#bouton:hover{
+    background-color: #6380c7;
+}
